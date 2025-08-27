@@ -1,0 +1,13 @@
+filename = 'Bare Bones 1.21.7.zip'
+name = 'Bare Bones'
+side = 'client'
+
+[download]
+hash = '9352d872552f7b6b60f48318322763273c244041e9894ea4dcf76fd84ccc1d29d369dc5237733fefe721fdf49af6030165c5df77d273cb06fe7ecf3555fbae58'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rox3U8B6/versions/sZROMthE/Bare%20Bones%201.21.7.zip'
+
+[update.modrinth]
+mod-id = 'rox3U8B6'
+version = 'sZROMthE'

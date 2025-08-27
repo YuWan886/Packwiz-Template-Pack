@@ -1,0 +1,12 @@
+filename = 'Searchables-fabric-1.21.8-1.0.2.jar'
+name = 'Searchables'
+side = 'both'
+
+[download]
+hash = '235f5a429e3dc9e26841ec0afe23bb6657d52553'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 6898308
+project-id = 858542

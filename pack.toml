@@ -1,0 +1,13 @@
+name = "哈基米"
+author = "一条鱼丸_"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "af3bdc4a6edb3390176a672a26f119227b9cbe9a7e0db6c6c59e532b1cb2cc81"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"

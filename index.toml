@@ -1,0 +1,48 @@
+hash-format = "sha256"
+
+[[files]]
+file = "PCL/Setup.ini"
+hash = "44883ed719c2e5c32dba621fb2232fa53c7e39662dbaaeb739cf5787a124e6d1"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "7efeaaeb28719fe5de507d67078fd701f20b457441db10ede97d50ceffdf3c6d"
+
+[[files]]
+file = "hmclversion.cfg"
+hash = "f0fc0f2aff949c32696187213f34d1ef0f0e33e1dceb93339962d66594df045a"
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "dd43e8ee45d7a90a28754ac7a21f1de01addd8cd0c29009c091d79481f9830ac"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "acb325b2de20316be591794b086907d54e484ae447a1fe2046f6155836d48b7d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b0d9de20a782d1bee81789c08ff0fb318e9da749e2416fbb7f353e70d4cc3909"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Bare Bones 1.21.7.pw.toml"
+hash = "b5cfe4dc467ea0ba671561088d9d7c6800e2c5972738dae344d5778799ee4a71"
+metafile = true
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.10.pw.toml"
+hash = "d7366389cc6d85cf5873c8c77cd7d295c2f3a6c44f3632a38fdfde999552fd82"
+metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.5.1.pw.toml"
+hash = "11228f644447cc0b593367c3d005d301e22dbded25ed9c4d895cfd34c04dd21d"
+metafile = true
+
+[[files]]
+file = "tacz/cod_warzone_gun_116a.pw.toml"
+hash = "bcd7718f700e4a39b4a53607e9ecb6982862eec60a85b479279248bd5acd064f"
+metafile = true
